@@ -1,1 +1,0 @@
-{"version":3,"file":"\/Users\/trybeee\/Code\/cljs-expo-project\/.cljs_rhino_repl\/cljs_expo_project\/subs.js","sources":["subs.cljs"],"lineCount":9,"mappings":";AAAA;;;AAGA,gCAAA,hCAACA,qGAEA,WAAKC,GAAGC;AAAR,AACE,OAAA,0FAAWD","names":["re-frame.core\/reg-sub","db","_"]}
